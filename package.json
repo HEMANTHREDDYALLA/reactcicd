@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://2300032455.github.io/reactcicd",
+  "homepage": "https://hemanthreddyalla.github.io/reactcicd",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
